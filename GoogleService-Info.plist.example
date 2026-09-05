@@ -1,0 +1,4 @@
+{
+  "note": "Firebase Android config. Download your own from Firebase Console > Project Settings > Your apps > google-services.json and place it here (and at android/app/). This file is gitignored.",
+  "project_info": { "project_id": "YOUR_FIREBASE_PROJECT_ID" }
+}
